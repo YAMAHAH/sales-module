@@ -2,7 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/sales-order-module" vcs="Git" />
     <mapping directory="D:\java-project\microservice\sales-module\domain-module" vcs="Git" />
   </component>
 </project>
