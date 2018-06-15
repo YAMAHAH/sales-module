@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/domain-module/domain-module.iml" filepath="$PROJECT_DIR$/domain-module/domain-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sale-order-sample-service/sale-order-sample-service.iml" filepath="$PROJECT_DIR$/sale-order-sample-service/sale-order-sample-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sales-order-module/sales-order-module.iml" filepath="$PROJECT_DIR$/sales-order-module/sales-order-module.iml" />
+    </modules>
+  </component>
+</project>
